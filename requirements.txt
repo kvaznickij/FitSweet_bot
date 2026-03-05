@@ -3,7 +3,8 @@ aiohttp
 aiofiles
 APScheduler
 pydantic
-aiosqlite
+
+
 
 
 
