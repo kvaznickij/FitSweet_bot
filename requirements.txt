@@ -1,8 +1,10 @@
 aiogram
 aiohttp
 aiofiles
+aiosqlite
 APScheduler
 pydantic
+
 
 
 
