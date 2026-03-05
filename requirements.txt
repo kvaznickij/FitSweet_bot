@@ -1,9 +1,10 @@
-aiogram==3.4.1
+aiogram
 aiohttp
 aiofiles
 APScheduler
 pydantic
 aiosqlite
+
 
 
 
